@@ -1,25 +1,33 @@
 #cosc333
 
 Name  : Odhiambo Mary Akoth
+
 Reg No: EB3/61611/22
 
 
 
 Run the executable:
 
-.Enter a number when prompted and view the calculated factorial.
+.Enter a number when prompted and view the calculated factorial. ie
+
 -enter number:5
+
 -factorial :120
+
 -runtime :16.001s(but time keeps on changing in every execution)
 
-.Enter a number when prompted and view the calculated fibonacci
+.Enter a number when prompted and view the calculated fibonacci ie
+
 -enter number:5
+
 -fibonacci:0,1,1,2,3
+
 -runtime :69.095s
 
 Description
 
-This project is a simple C++ program that calculates the factorial and fibonacci of a given number. 
+This project is a simple C++ program that calculates the factorial and fibonacci of a given number.
+
 It prompts the user to enter a number, then computes and displays the factorial and fibonacci of that number.
 
 .Runtime Environment
